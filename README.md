@@ -3,7 +3,7 @@
 Display geolocation information on google map as a blue dot.
 
 Bluedot uses the [HTML 5 geolocation API][geolocation-api] to retrieve
-the current location, and displays it as a [Marker][googlemap-markers] on [Google Maps][googlemaps-api].
+the current location, and displays it as a [Marker][googlemaps-markers] on [Google Maps][googlemaps-api].
 
 # Usage
 
