@@ -30,7 +30,7 @@ var options = {
 new BlueDot(map, options);
 ```
 
-# Reference
+# API Reference
 
 ## BlueDot object
 
